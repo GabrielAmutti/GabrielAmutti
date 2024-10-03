@@ -1,7 +1,5 @@
 <h2 align="center">Olá! Meu nome é Gabriel Fabbri Amutti</h2>
 
-background-color: black;
-
 ###
 
 <div align="center">
